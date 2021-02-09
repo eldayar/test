@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+.subtitle {
+    padding-top: 50px;
+    color:blue;
+}
+.img{
+    margin-top: 1px;
+}
